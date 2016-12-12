@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## This function caches the matrix using getter (get and getsolve) and setter (set and setsolve) functions.
 
 makeCacheMatrix <- function(x = matrix()) {
